@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hola 👋 I’m Crystal Durán
 
-<!--
-**crystalduran/crystalduran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer with a lot of interest in building responsive and user-friendly web applications.
 
-Here are some ideas to get you started:
+- 🌱 Currently exploring **Astro** and **Vercel** to enhance my deployment skills.
+- 🚀 Working on various projects that leverage **React**, **TypeScript**, and **Express.js** to create seamless user experiences.
+- 💻 Learning about **clean code principles**, **responsive design**, and **performance optimization**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Skillset
+
+- **Languages**: JavaScript, TypeScript, Python, C#
+- **Frontend**: React, Tailwind CSS, Bootstrap, Astro
+- **Backend**: Express.js
+- **Databases**: MongoDB, SQL
+- **Mobile**: Flutter, React Native
+
+ [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=crystalduran)](https://github.com/crystalduran/github-readme-stats)
+
+
+---
+I would greatly appreciate any advice or comments to help me grow in software development. (˶˃ ᵕ ˂˶) .ᐟ.ᐟ
