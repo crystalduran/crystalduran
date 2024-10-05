@@ -2,8 +2,9 @@
 
 I am a Frontend Developer with a lot of interest in building responsive and user-friendly web applications.
 
-- 🌱 Currently exploring **Astro** and **Vercel** to enhance my deployment skills.
-- 🚀 Working on various projects using **React**, **TypeScript**, and **Express.js** to create seamless user experiences.
+- 🚀 Currently learning **Docker** and **CI/CD** to deliver software more efficiently.
+- 🎯 Exploring **Astro**, **Sass** and **Angular** to consolidate my frontend capabilities.
+- 🧩 Working on various projects using **React**, **TypeScript**, and **Express.js** to create seamless user experiences.
 - 💻 Learning about **clean code principles**, **responsive design**, and **performance optimization**.
 
 ### ⚙️ Skillset
