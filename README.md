@@ -9,7 +9,7 @@ I'm a software developer with a lot of interest in building responsive and user-
 
 ### Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,ts,dart,cs,py,astro,nodejs,mongodb,figma,mysql,sqlite,postman,react,express,html,css,tailwind,bootstrap,angular,flutter,git,selenium,vite,vitest,webpack,docker,markdown,vitest,npm&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,ts,dart,cs,py,astro,nodejs,mongodb,figma,mysql,sqlite,postman,react,express,html,css,tailwind,bootstrap,angular,flutter,git,selenium,vite,vitest,webpack,docker,markdown,npm&theme=light)](https://skillicons.dev)
 
 ### GitHub stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crystalduran&layout=compact&langs_count=8)
