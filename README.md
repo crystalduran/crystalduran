@@ -1,11 +1,13 @@
 ## Hola 👋 I’m Crystal Durán
 
-I'm a software developer with a lot of interest in building responsive and user-friendly web applications.
+I'm a software developer with a lot of interest in building responsive and user-friendly applications.
 
-- 🚀 Currently learning **Docker** and **CI/CD** to deliver software more efficiently.
-- 🎯 Exploring **Astro**, **Sass** and **Angular** to consolidate my frontend capabilities.
-- 🧩 Working on various projects using **React**, **TypeScript**, and **Express.js** to create seamless user experiences.
-- 💻 Learning about **clean code principles**, **responsive design**, and **performance optimization**.
+- Learning **Go** and improving my skills in **.NET**.
+- Getting more advanced with **React** and exploring **Vue**.
+- Building personal projects to apply what I’m learning.
+- Practicing programming logic and problem solving every day.
+- Always curious and motivated  to learn something new.
+-  Learning about **clean code principles**, **responsive design**, and **performance optimization**.
 
 ### Languages and tools
 
